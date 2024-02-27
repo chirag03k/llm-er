@@ -1,24 +1,13 @@
-----join graph 0----
-Chicago Public Schools - School Progress Reports SY2223.csv
-----join graph 1----
-Chicago Public Schools - School Profile Information SY2223.csv.cps_school_profile JOIN Chicago Public Schools - School Progress Reports SY2223.csv.cps_school_profile
-----join graph 2----
-Chicago Public Schools - School Profile Information SY2223.csv.primary_category JOIN Chicago Public Schools - School Progress Reports SY2223.csv.primary_category
-----join graph 3----
-Chicago Public Schools - School Profile Information SY2223.csv.phone JOIN Chicago Public Schools - School Progress Reports SY2223.csv.phone
-----join graph 4----
-Chicago Public Schools - School Profile Information SY2223.csv.short_name JOIN Chicago Public Schools - School Progress Reports SY2223.csv.short_name
-----join graph 5----
-Chicago Public Schools - School Profile Information SY2223.csv.city JOIN Chicago Public Schools - School Progress Reports SY2223.csv.city
-----join graph 6----
-Chicago Public Schools - School Profile Information SY2223.csv.long_name JOIN Chicago Public Schools - School Progress Reports SY2223.csv.long_name
-----join graph 7----
-Chicago Public Schools - School Profile Information SY2223.csv.website JOIN Chicago Public Schools - School Progress Reports SY2223.csv.website
-----join graph 8----
-Chicago Public Schools - School Profile Information SY2223.csv.address JOIN Chicago Public Schools - School Progress Reports SY2223.csv.address
-----join graph 9----
-Chicago Public Schools - School Profile Information SY2223.csv.fax JOIN Chicago Public Schools - School Progress Reports SY2223.csv.fax
-----join graph 10----
-Chicago Public Schools - School Profile Information SY2223.csv.state JOIN Chicago Public Schools - School Progress Reports SY2223.csv.state
-----join graph 11----
-Chicago Public Schools - School Profile Information SY2223.csv
+
+0, Chicago Public Schools - School Progress Reports SY2223.csv
+1, Chicago Public Schools - School Profile Information SY2223.csv.cps_school_profile JOIN Chicago Public Schools - School Progress Reports SY2223.csv.cps_school_profile
+2, Chicago Public Schools - School Profile Information SY2223.csv.primary_category JOIN Chicago Public Schools - School Progress Reports SY2223.csv.primary_category
+3, Chicago Public Schools - School Profile Information SY2223.csv.phone JOIN Chicago Public Schools - School Progress Reports SY2223.csv.phone
+4, Chicago Public Schools - School Profile Information SY2223.csv.short_name JOIN Chicago Public Schools - School Progress Reports SY2223.csv.short_name
+5, Chicago Public Schools - School Profile Information SY2223.csv.city JOIN Chicago Public Schools - School Progress Reports SY2223.csv.city
+6, Chicago Public Schools - School Profile Information SY2223.csv.long_name JOIN Chicago Public Schools - School Progress Reports SY2223.csv.long_name
+7, Chicago Public Schools - School Profile Information SY2223.csv.website JOIN Chicago Public Schools - School Progress Reports SY2223.csv.website
+8, Chicago Public Schools - School Profile Information SY2223.csv.address JOIN Chicago Public Schools - School Progress Reports SY2223.csv.address
+9, Chicago Public Schools - School Profile Information SY2223.csv.fax JOIN Chicago Public Schools - School Progress Reports SY2223.csv.fax
+10, Chicago Public Schools - School Profile Information SY2223.csv.state JOIN Chicago Public Schools - School Progress Reports SY2223.csv.state
+11, Chicago Public Schools - School Profile Information SY2223.csv
